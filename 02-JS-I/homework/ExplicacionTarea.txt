@@ -39,7 +39,7 @@ function menosQueNoventa(num) {
 
   }
 }
-En esta función previamente se le asigno un número a la variable num para poder ser ejecutada
+En esta función previamente se le asigno un número a la variable num para poder ser ejecutada, si solo se ejecuta una variable sin un valor dentro no devolverá nada
 
 
 Valores booleanos: 
